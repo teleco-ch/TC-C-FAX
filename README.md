@@ -5,7 +5,7 @@ Telecos Crappy Fax
 Very wip... lol 
 
 # TC-C-FAX : Telecos Crappy Fax Gateway
-So you want a Fax Gateway ? No ? Do you even know what that is ? Also no? well let me explain.
+So you want a Fax Gateway ? No ? Do you even know what that is ? Also no? well let me explain anyways.
 
 This project contains all files needed for setting up TC-C-FAX
 A fax server that is highly integrated with E-Mail!
