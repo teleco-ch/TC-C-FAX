@@ -30,3 +30,4 @@ Todo :
 - [ ] Make a tiny Image of the vm and offer it
 - [ ] Automate the setup process with like a bash script
 - [ ] Make it work by magic OOOoooOOOoooo 
+- [ ] Incorperate https://github.com/jameswillhoite/t38modem/tree/master/Ubuntu-22.04.4 maybe ? So none Asterisk people can make use of this too
