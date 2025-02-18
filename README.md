@@ -27,6 +27,6 @@ Now as of now this is just the concept of how it is supposed to work, this is no
 - A barebones Hylafax Server (see here [Setting up a Debian 11 VM for our Hylafax and TC-C-FAX host](HYLAFAX-SETUP.md) )
 
 Todo :  
-- Make a tiny Image of the vm and offer it [ ]
-- Automate the setup process with like a bash script [ ]
-- Make it work by magic OOOoooOOOoooo [ ]
+- [ ] Make a tiny Image of the vm and offer it
+- [ ] Automate the setup process with like a bash script
+- [ ] Make it work by magic OOOoooOOOoooo 
